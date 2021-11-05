@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=yankewei&show_icons=true&theme=radical)
-![snake](https://raw.githubusercontent.com/yankewei/yankewei/output/github-contribution-grid-snake.svg)
 - 💪 I'm currently learning English.
 - 🤔️ 不定时更新[Leetcode题解](https://github.com/yankewei/LeetCode-Go).
 - 💻 I'm learning CSAPP.
+
+![snake](https://raw.githubusercontent.com/yankewei/yankewei/output/github-contribution-grid-snake.svg)
