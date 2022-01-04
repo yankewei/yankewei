@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 🤔️ 不定时更新[Leetcode题解](https://github.com/yankewei/LeetCode-Go).
 - 💻 I'm learning CSAPP.
 
-![snake](https://raw.githubusercontent.com/yankewei/yankewei/output/github-contribution-grid-snake.svg)
