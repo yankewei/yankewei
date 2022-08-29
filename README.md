@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![my stats](https://github-readme-stats.vercel.app/api?username=yankewei&show_icons=true&theme=radical)
+
 - 💪 I'm currently learning English.
 - 🤔️ 不定时更新[Leetcode题解](https://github.com/yankewei/LeetCode-Go).
 - 💻 I'm learning CSAPP.
