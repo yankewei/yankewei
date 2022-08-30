@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 我的仓库
+- [leetcode](https://github.com/yankewei/LeetCode) 刷题记录
+- [blog-from-issue](https://github.com/yankewei/blog-from-issue) 根据自己仓库的 issue 生成博客
+- [blog](https://github.com/yankewei/blog) 记录 Everything
 
-- 💪 I'm currently learning English.
-- 🤔️ 不定时更新[Leetcode题解](https://github.com/yankewei/LeetCode-Go).
-- 💻 I'm learning CSAPP.
-
+### 爱好
+- 📖看小说(国内外小说，网游除外)
+- 🏂滑雪
