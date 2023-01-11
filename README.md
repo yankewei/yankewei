@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - [blog](https://github.com/yankewei/blog) 记录 Everything
 
 ### 爱好
-- 📖看小说(国内外小说，网游除外)
+- 📖看小说(国内外小说)
 - 🏂滑雪
