@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### 我的仓库
 - [leetcode](https://github.com/yankewei/LeetCode) 刷题记录
-- [blog-from-issue](https://github.com/yankewei/blog-from-issue) 根据自己仓库的 issue 生成博客
 - [blog](https://github.com/yankewei/blog) 记录 Everything
 
 ### 爱好
