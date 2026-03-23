@@ -1,25 +1,32 @@
 ### Hi! My Friends👋
 
-<!--
-**yankewei/yankewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### 我的仓库
-- [leetcode](https://github.com/yankewei/LeetCode) 刷题记录
-- [blog](https://github.com/yankewei/blog) 记录 Everything
+
+---
+
+## 🚀 Projects
+
+- **[leetcode](https://github.com/yankewei/LeetCode)** — 刷题记录
+- **[blog](https://github.com/yankewei/blog)** — 记录 Everything
+
+---
+
+## 🧠 About
+
+- 📍 Beijing
+- 💻 Backend / Go / TypeScript
+- 🌱 Building things for long-term
 
 ### 爱好
 - 📖看小说(国内外小说)
 - 🏂滑雪
 - 🥾徒步
+
+---
+
+## 🌍 Links
+
+- Blog: https://www.yankewei.site
+- Email: yankewei1993@gmail.com
